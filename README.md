@@ -24,3 +24,4 @@ To install this script in termux, type the following commands
 You will see like this. Enter username of account that you wanna hack
 
 သင်ဒီလိုမြင်ရလိမ့်မယ်။သင် hack ချင်တဲ့ account username ထည့်ပါ။
+![Capture 1](https://github.com/aungnyeinchan351/DustBrute/blob/master/IMG_20200828_115844.jpg)
