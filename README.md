@@ -15,7 +15,7 @@ To install this script in termux, type the following commands
 >>pip3 install requests bs4
 >>pip install mechanize
 >>cd DustBrute
->>python3 DustBrute.py
+>>python3 dustbrute.py
 ```
 You will see like this. Enter username of account that you wanna hack
 
