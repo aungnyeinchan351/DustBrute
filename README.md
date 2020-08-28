@@ -25,3 +25,8 @@ You will see like this. Enter username of account that you wanna hack
 
 သင်ဒီလိုမြင်ရလိမ့်မယ်။သင် hack ချင်တဲ့ account username ထည့်ပါ။
 ![Capture 1](https://github.com/aungnyeinchan351/DustBrute/blob/master/IMG_20200828_115844.jpg)
+
+After filling username of Target, hit enter. And you will see like this.
+
+Target ရဲ့ username ဖြည့်ပြီးနောက် ပြထားတဲ့ပုံအတိုင်းမြင်ရပါမယ်။
+![Capture 2](https://github.com/aungnyeinchan351/DustBrute/blob/master/IMG_20200828_100833.jpg)
