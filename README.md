@@ -12,6 +12,8 @@ Bruteforce attack အတွက်သင်ဟာသင့်ရဲ့ကို�
 # Installation on Termux
 To install this script in termux, type the following commands
 ဒီဟာကို Termux မှာ install လုပ်ဖို့ဒီcommand များကိုရိုက်ထည့်ပါ။
+```
 >>pkg install git
 >>pkg install python
 >>git clone 
+```
