@@ -15,5 +15,5 @@ To install this script in termux, type the following commands
 ```
 >>pkg install git
 >>pkg install python
->>git clone 
+>>git clone https://github.com/aungnyeinchan351/DustBrute
 ```
