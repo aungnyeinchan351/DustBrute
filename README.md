@@ -58,4 +58,4 @@ Do you want to use built in wordlist.(y/n)n
 Enter your wordlist: data/passwords/pass.txt
 ```
 Follow me on [GitHub](https://github.com/aungnyeinchan351)
-Follow me on [Facebook](www.faceboik.com/zinyaw3063)
+Follow me on [Facebook](https://faceboik.com/zinyaw3063)
