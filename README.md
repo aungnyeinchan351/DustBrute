@@ -35,15 +35,25 @@ This is asking you that do you want to use the wordlist in the script.
 If you want to use type "y".
 
 ဒါကတော့သင့်ကို tool နဲ့အတူပါလာတဲ့ wordlist ကိုသုံးချင်လားမေးတာပါ။သုံးမယ်ဆိုရင် "y" လို့ရိုက်ပေးပါ။
+
 If you don't wanna use the wordlist, type"n". But, if you type "n" 
 You must input your own wordlist.
+
 သင်ကအသင့်ပါလာတဲ့ wordlist ကိုမသုံးချင်ရင်‌‌တော့ "n" လို့ရိုက်ပါ။
 ဒါပေမယ့်သင်ဟာ wordlist တစ်ခုကိုတော့ထည့်ပေးရပါမယ်။
 
 If your wordlist is in the same folder of script, type "filename.txt" eg(pass.txt)
+
 သင့်ရဲ့ wordlist က script နဲ့ folder တစ်ခုထဲမှာရှိမယ်ဆိုရင် filename.txt ပုံစံနဲ့ရိုက်ထည့်ပါ။(ဥပမာ-pass.txt)
 
 ```
 Do you want to use built in wordlist.(y/n)n
 Enter your wordlist: pass.txt
+```
+If your wordlist is in different folder, enter file path.eg(data/passwords/pass.txt)
+
+Wordlist ကတခြား folder ထဲမှာဆိုရင် file လမ်းကြောင်းနဲ့ထည့်ပေးပါ။ ဥပမာ(data/passwords/pass.txt)
+```
+Do you want to use built in wordlist.(y/n)n
+Enter your wordlist: data/passwords/pass.txt
 ```
