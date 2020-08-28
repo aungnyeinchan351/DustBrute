@@ -9,6 +9,6 @@ Bruteforce attack အတွက်သင်ဟာသင့်ရဲ့ကို�
 ဖြစ်နိုင်ချေရှိတဲ့ passwords files များလည်းများစွာပါဝင်ပါတယ်။
 သင်ဟာ passwords files(wordlist)များကိုလည်း passgen.py ကိုသုံးပြီးသင့်စိတ်ကြိုက်ဖန်တီးနိုင်ပါတယ်။
 
-#Installation on Termux
+# Installation on Termux
 To install this script in termux, type the following commands
 ဒီဟာကို Termux မှာ install လုပ်ဖို့ဒီcommand များကိုရိုက်ထည့်ပါ။
