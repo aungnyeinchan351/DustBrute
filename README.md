@@ -57,3 +57,5 @@ Wordlist ကတခြား folder ထဲမှာဆိုရင် file လမ
 Do you want to use built in wordlist.(y/n)n
 Enter your wordlist: data/passwords/pass.txt
 ```
+Follow me on [GitHub](www.github.com/aungnyeinchan351)
+Follow me on [Facebook](www.faceboik.com/zinyaw3063)
