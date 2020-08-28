@@ -3,3 +3,7 @@ Dust BRUTE is a Facebook bruteforce attack tool developed in Aug 26, 2020. It wa
 You can use your own wordlist file for bruteforce attack.
 There are many built in possible passwords files.
 you can create passwords list files using passgen.py.
+DUST BRUTE ဆိုတာ ၂၀၂၀ခုနှစ်၊ဩဂုတ်လ၊၂၆ရနေ့ကဖန်တီးလိုက်တဲ့ Facebook Bruteforce tool တသ်ခုဖြစ်ပါတယ်။
+Bruteforce attack အတွက်သင်ဟာသင့်ရဲ့ကိုယ်ပိုင် passwords file(wordlist)ကိုအသုံးပြုနိုင်ပါတယ်။
+ဖြစ်နိုင်ချေရှိတဲ့ passwords files များလည်းများစွာပါဝင်ပါတယ်။
+သင်ဟာ passwords files(wordlist)များကိုလည်း passgen.py ကိုသုံးပြီးသင့်စိတ်ကြိုက်ဖန်တီးနိုင်ပါတယ်။
