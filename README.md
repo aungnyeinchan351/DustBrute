@@ -16,4 +16,8 @@ To install this script in termux, type the following commands
 >>pkg install git
 >>pkg install python
 >>git clone https://github.com/aungnyeinchan351/DustBrute
+>>pip3 install requests bs4
+>>pip install mechanize
+>>cd DustBrute
+>>python3 DustBrute.py
 ```
