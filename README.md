@@ -61,6 +61,11 @@ This script is built in DUST BRUTE. You can use it by typing..
 ```
 >>python3 wordlist_creator.py
 ```
+You can type passwords that you think possible again and again.
+If you want to your list, type "0" and hit enter.
+Then, you can call your password file from dustbrute.py by using its name.
+### Example screenshot
+
 
 Follow me on [GitHub](https://github.com/aungnyeinchan351)
 Follow me on [Facebook](https://facebook.com/zinyaw3063)
