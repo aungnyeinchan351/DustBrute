@@ -53,5 +53,14 @@ Wordlist ကတခြား folder ထဲမှာဆိုရင် file လမ
 Do you want to use built in wordlist.(y/n)n
 Enter your wordlist: data/passwords/pass.txt
 ```
+
+## DUST GEN wordlist creator
+
+You can create you wordlist with possible passwords using wordlist_creator.py script.
+This script is built in DUST BRUTE. You can use it by typing..
+```
+>>python3 wordlist_creator.py
+```
+
 Follow me on [GitHub](https://github.com/aungnyeinchan351)
 Follow me on [Facebook](https://facebook.com/zinyaw3063)
