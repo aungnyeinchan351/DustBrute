@@ -66,6 +66,8 @@ If you want to your list, type "0" and hit enter.
 Then, you can call your password file from dustbrute.py by using its name.
 ### Example screenshot
 
+![Capture 1](https://github.com/aungnyeinchan351/DustBrute/blob/master/IMG_20200829_103603.jpg)
+
 
 Follow me on [GitHub](https://github.com/aungnyeinchan351)
 Follow me on [Facebook](https://facebook.com/zinyaw3063)
