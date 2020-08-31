@@ -13,9 +13,22 @@ To install this script in termux, type the following commands
 >>pkg install python
 >>git clone https://github.com/aungnyeinchan351/DustBrute
 >>pip3 install requests bs4
+>>pip3 install pyfiglet
 >>pip install mechanize
 >>cd DustBrute
 >>python3 dustbrute.py
+```
+
+## Installation on ubuntu linux
+```
+sudo apt install python
+sudo apt install git
+git clone https://github.com/aungnyeinchan351/DustBrute
+pip3 install requests bs4
+pip3 install mechanize
+pip3 install pyfiglet
+cd DustBrute
+python3 dustbrute.py
 ```
 You will see like this. Enter username of account that you wanna hack
 
